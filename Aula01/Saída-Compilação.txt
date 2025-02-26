@@ -1,0 +1,3 @@
+﻿1>------ Build iniciado: projeto: Aula01, Configuração: Debug ------
+1>  Aula01 -> C:\Users\marcos.cafsilva\Documents\Aulas\Aula01\bin\Debug\net9.0\Aula01.dll
+========== Compilar: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
